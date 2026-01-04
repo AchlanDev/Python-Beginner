@@ -5,7 +5,7 @@ print("Welcome to Tic Tac Toe!")
 opponent = input("Would you like to play against another player or an AI (1 or 2): ")
 
 while not opponent.isdigit() or int(opponent) not in range(1, 3):
-                opponent = input("Choose a option (1 or 2): ")
+    opponent = input("Choose a option (1 or 2): ")
 
 if opponent == '1':
     with open("tic_tac_toe.py") as a:
