@@ -10,7 +10,7 @@ Completed Projects:
 
  - Tic Tac Toe
 
- -Simple Calculator
+ - Simple Calculator
 
 Future Projects:
 
