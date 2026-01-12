@@ -10,11 +10,12 @@ Completed Projects:
 
  - Tic Tac Toe
 
+ -Simple Calculator
+
 Future Projects:
 
- - Simple Calculator
-
- - To-Do List (In Memory)
+ - To-Do List
+    - In Memory
     - Saved To File
 
  - Contact Book
