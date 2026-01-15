@@ -27,3 +27,5 @@ Future Projects:
  - File Analyzer Tool
 
  - Command Line Utility
+
+ - Password Generator
